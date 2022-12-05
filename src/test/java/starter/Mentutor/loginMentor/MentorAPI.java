@@ -11,7 +11,7 @@ public class MentorAPI {
     public static final String DIR = System.getProperty("user.dir");
     public static final String JSON_REQ_BODY = DIR + "/src/test/resources/JSON/RequestBody";
     public static final String JSON_SCHEMA = DIR + "/src/test/resources/JSON/JsonSchema";
-    public static final String BEARER_MENTOR = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZENsYXNzIjozOCwiYXV0aG9yaXplZCI6dHJ1ZSwiZXhwIjoxNjcwMTg4NTEyLCJyb2xlIjoibWVudG9yIiwidXNlcklkIjoxMDMzfQ.heeFjZ_jRkF_8JOByS_s7S_2hmjBedWefPsAhPK9OGE";
+    public static final String BEARER_MENTOR = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZENsYXNzIjozOCwiYXV0aG9yaXplZCI6dHJ1ZSwiZXhwIjoxNjcwMjQxNzkxLCJyb2xlIjoibWVudG9yIiwidXNlcklkIjoxMDMzfQ.PIQMZ6kryM5irCkXyDQ8ilycpMQbLFhebbNBhj0Iwtw";
     public static String LOGIN = URL + "/login";
     public static String MENTOR_UPDATE_USER = URL + "/users";
     public static String MENTOR_UPDATE_USER_INVALID = URL + "/userssq";

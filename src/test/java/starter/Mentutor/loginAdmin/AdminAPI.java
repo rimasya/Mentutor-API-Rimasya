@@ -13,7 +13,7 @@ public class AdminAPI {
     public static final String JSON_REQ_BODY = DIR + "/src/test/resources/JSON/RequestBody";
     public static final String JSON_SCHEMA = DIR+"/src/test/resources/JSON/JsonSchema";
 
-    public static final String BEARER_ADMIN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZENsYXNzIjowLCJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE2NzAxODY0NjMsInJvbGUiOiJhZG1pbiIsInVzZXJJZCI6MTAwMH0.4853aDnmArgDdGcfBR5LhAUBysz090Pc0xvwreLrkBo";
+    public static final String BEARER_ADMIN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZENsYXNzIjowLCJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE2NzAyNDE3MzEsInJvbGUiOiJhZG1pbiIsInVzZXJJZCI6MTAwMH0.gGq33o4ruaC7naYlOEWER8Ob3GSjvv8BpaiGy9dSetY";
     public static final String BEARER_MENTOR= "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZENsYXNzIjozOCwiYXV0aG9yaXplZCI6dHJ1ZSwiZXhwIjoxNjcwMTgxMDQzLCJyb2xlIjoibWVudG9yIiwidXNlcklkIjoxMDMzfQ.6ldLlflbj7cjKA6QkNetRtyH3-hIC-LdGKn4zAFsw7s";
     public static String LOGIN = URL + "/login";
 
